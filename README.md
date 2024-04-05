@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Aarón, a freelance software developer based in Barcelona. I specialize in creating innovative digital solutions, from mobile apps to complex web systems. With a customer-centric approach and adaptability to various technologies, I deliver high-quality results tailored to my clients' needs. Let's work together to bring your ideas to life and achieve your tech goals!</p>
+<p align="left">Hi there! I'm Aarón, a freelance software developer based in Barcelona. I specialize in creating innovative digital solutions, from mobile apps to complex web systems. With a customer-centric approach and adaptability to various technologies, I deliver high-quality results tailored to my clients needs. Let's work together to bring your ideas to life and achieve your tech goals!</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
