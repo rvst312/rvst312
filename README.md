@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://cdn.beacons.ai/user_content/8HlQwbgO4kUl9zOwjfCUpFNlCp52/profile_rvst.png?t=1705927239692"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
