@@ -56,8 +56,12 @@
 ###
 
 <div align="center">
-  <img href="https://es.linkedin.com/in/aar%C3%B3n-franco-fern%C3%A1ndez-0a76b9281" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  <img href="https://www.instagram.com/rvst.io/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  <a href="https://es.linkedin.com/in/aar%C3%B3n-franco-fern%C3%A1ndez-0a76b9281">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rvst.io/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
