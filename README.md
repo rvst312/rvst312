@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java (SpringBoot)<br>🎯 Goals: My business growth</p>
+<p align="left">📚 I'm currently learning Java (Spring)<br>🎯 Goals: My business growth</p>
 
 ###
 
