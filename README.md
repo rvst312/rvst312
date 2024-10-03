@@ -1,10 +1,6 @@
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">📚 I'm currently learning Java (Spring)<br>🎯 Goals: My business growth</p>
+<p align="left">🎯 Goals: My business growth</p>
 
 ###
 
