@@ -8,6 +8,6 @@
 
 ###
 
-<p align="left">I'm Aarón, a freelance software developer based in Barcelona. I specialize in creating innovative digital solutions, from mobile apps to complex web systems. With a customer-centric approach and adaptability to various technologies, I deliver high-quality results tailored to my clients needs. Let's work together to bring your ideas to life and achieve your tech goals!</p>
+<p align="left">Hey, I’m Aarón, a freelance developer from Barcelona. I help you with project management and build the digital solutions you need. From web systems to handling the tech side of things, I’m all about getting things done right. Let’s team up and make your ideas happen!</p>
 
 ###
