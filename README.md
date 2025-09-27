@@ -8,6 +8,6 @@
 
 ###
 
-<p align="left">Hey, I’m Aarón, a freelance developer from Barcelona. I help you with project management and build the digital solutions you need. From web systems to handling the tech side of things, I’m all about getting things done right. Let’s team up and make your ideas happen!</p>
+<p align="left">Hey, I’m Aarón, a freelance developer. I help you with project management and build the digital solutions you need. From web systems to handling the tech side of things, I’m all about getting things done right. Let’s team up and make your ideas happen!</p>
 
 ###
