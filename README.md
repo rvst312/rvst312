@@ -19,7 +19,7 @@ Let’s team up and turn your ideas into scalable, successful projects.
 <h3 align="left">🌍 Key Industries I've Worked With</h3>
 
 <ul align="left">
-  <li><strong>Software Outsourcing</strong> — managing dedicated teams and delivering nearshore/offshore development solutions.</li>
+  <li><strong>Software Outsourcing</strong> — managing dedicated teams and delivering nearshore/offshore development solutions in Eastern Europe.</li>
   <li><strong>Consulting & Business Services</strong> — digital transformation, BI dashboards (Power BI / Looker), and workflow automation.</li>
 </ul>
 
