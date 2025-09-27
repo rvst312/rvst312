@@ -19,11 +19,8 @@ Let’s team up and turn your ideas into scalable, successful projects.
 <h3 align="left">🌍 Key Industries I've Worked With</h3>
 
 <ul align="left">
-  <li><strong>Technology & Startups</strong> — building SaaS platforms, custom web systems, and MVPs from scratch.</li>
-  <li><strong>Education & e-Learning</strong> — LMS solutions, digital platforms for schools, and process automation.</li>
-  <li><strong>Consulting & Business Services</strong> — digital transformation, BI dashboards (Power BI / Looker), and workflow automation.</li>
-  <li><strong>E-commerce & Retail</strong> — web development, integrations, and process optimization for online businesses.</li>
   <li><strong>Software Outsourcing</strong> — managing dedicated teams and delivering nearshore/offshore development solutions.</li>
+  <li><strong>Consulting & Business Services</strong> — digital transformation, BI dashboards (Power BI / Looker), and workflow automation.</li>
 </ul>
 
 ###
