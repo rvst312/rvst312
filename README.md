@@ -1,7 +1,6 @@
 ###
 
-<p align="left">🎯 Goals: My business growth</p>
-
+<p align="left">🇺🇦 STAND WITH UKRAINE</p>
 ###
 
 <h2 align="left">About me</h2>
